@@ -76,6 +76,14 @@ ID    Title
 3     Data_Structures_Handbook
 ```
 
+## Demo
+
+### Search Result
+
+![Search Demo](screenshots/comparision.png)
+
+The system indexes text documents and retrieves matching books using either a custom hash table or a binary-search-based retrieval engine.
+
 ## Complexity Analysis
 
 | Operation   | Hash Table   | Binary Search |
